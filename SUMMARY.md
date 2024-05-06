@@ -1,4 +1,4 @@
 # Table of contents
 
-* [ma\_cybersecurity](README.md)
+* [Maturarbeit Cybersecurity](README.md)
   * [Timetable](readme/timetable.md)
